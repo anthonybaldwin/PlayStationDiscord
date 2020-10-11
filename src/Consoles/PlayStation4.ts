@@ -4,7 +4,7 @@ export default class PlayStation4 extends PlayStationConsole
 {
 	public constructor()
 	{
-		super(PlayStationConsoleType.PS4, '457775893746810880');
+		super(PlayStationConsoleType.PS4, '759523494740099152');
 	}
 
 	public get assetName() : string

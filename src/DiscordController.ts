@@ -29,7 +29,7 @@ export class DiscordController
 		largeImageKey: 'ps4_main',
 		largeImageText: 'PlayStation 4',
 		smallImageKey: 'ps4_main',
-		smallImageText: 'PlayStationDiscord ' + (packageJson.version || '')
+		smallImageText: 'PlayStationDiscord 420'
 	};
 
 	constructor(console: PlayStationConsole)
